@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "28431067263",
+    "firebase_url": "https://michat-68f81.firebaseio.com",
+    "project_id": "michat-68f81",
+    "storage_bucket": "michat-68f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28431067263:android:adab9e67e87d4bc6",
+        "android_client_info": {
+          "package_name": "com.nalexander240.michat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28431067263-5f559d5ia65t79d49erglfg9k9jfqs4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nalexander240.michat",
+            "certificate_hash": "362ecc7cb6aed8418f7732591bf3f9f88570ab01"
+          }
+        },
+        {
+          "client_id": "28431067263-jj37gdeliicvojjv2c1dq5g575isti5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0JU54ctuEAVFbzaQmS8R8zWvSS9IZ3eM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28431067263-jj37gdeliicvojjv2c1dq5g575isti5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
